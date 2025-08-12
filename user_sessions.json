@@ -1,0 +1,24 @@
+{
+  "users": {
+    "7764023007": {
+      "user_id": 7764023007,
+      "username": null,
+      "first_name": "Pranjal",
+      "joined_date": "2025-08-12T20:32:20.924229",
+      "messages": [
+        {
+          "text": "Hi",
+          "timestamp": "2025-08-12T20:32:21.393456",
+          "is_from_admin": false
+        },
+        {
+          "text": "kya kaam hai batao",
+          "timestamp": "2025-08-12T20:34:42.019871",
+          "is_from_admin": true
+        }
+      ],
+      "is_active": true
+    }
+  },
+  "admin_messages": {}
+}
